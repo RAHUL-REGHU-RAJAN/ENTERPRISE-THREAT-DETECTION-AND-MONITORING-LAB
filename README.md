@@ -3,7 +3,18 @@
 > An end-to-end Security Operations Center (SOC) home lab demonstrating enterprise threat detection, attack simulation, log analysis, and incident investigation using **Wazuh SIEM, Snort IDS, Sysmon, Kali Linux, and Windows 11**.
 
 <p align="center">
-  <img src="Architecture/Enterprise-Threat-Detection-Monitoring-Lab.png" alt="Enterprise Threat Detection & Monitoring Lab Architecture" width="100%">
+
+![Wazuh](https://img.shields.io/badge/Wazuh-v4.14-blue)
+![Sysmon](https://img.shields.io/badge/Sysmon-Microsoft-success)
+![Snort](https://img.shields.io/badge/Snort-IDS-red)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420)
+![Windows](https://img.shields.io/badge/Windows-11-0078D6)
+![Kali](https://img.shields.io/badge/Kali-Linux-557C94)
+
+</p>
+
+<p align="center">
+  <img src="Lab Architecture/Enterprise-Threat-Detection-Monitoring-Lab.png" width="100%">
 </p>
 
 ---
@@ -121,49 +132,7 @@ SOC Investigation
 
 The repository contains screenshots demonstrating each stage of the project.
 
-## Infrastructure
-
-- Wazuh Installation
-- Wazuh Dashboard
-- Wazuh Agent
-- Sysmon Installation
-- Snort Installation
-
-## Attack Demonstrations
-
-- ICMP Detection
-- Nmap Detection
-- Hydra Detection
-
-Screenshots can be found inside:
-
-```
-Proof-of-Concept/
-```
-
----
-
-# 📁 Repository Structure
-
-```
-Enterprise-Threat-Detection-Monitoring-Lab
-│
-├── Architecture
-│   └── Enterprise-Threat-Detection-Monitoring-Lab.png
-│
-├── Documentation
-│   └── Enterprise Threat Detection & Monitoring Laboratory.pdf
-│
-├── Proof-of-Concept
-│   ├── Wazuh Installation
-│   ├── Sysmon
-│   ├── Snort
-│   ├── ICMP Detection
-│   ├── Nmap Detection
-│   └── Hydra Detection
-│
-└── README.md
-```
+All screenshots are available in the **[Proof Of Concept](Proof-Of-Concept/)** folder.
 
 ---
 
@@ -187,40 +156,39 @@ Enterprise-Threat-Detection-Monitoring-Lab
 
 # 📄 Documentation
 
-A complete technical report documenting the implementation, attack simulations, detections, screenshots, and conclusions is available inside:
+The complete technical documentation is available in the **[Documentation](Documentation/)** folder.
 
-```
-Documentation/
-```
+📄 **Project Report**
+
+- [Enterprise Threat Detection & Monitoring Lab.pdf](Documentation/ENTERPRISE%20THREAT%20DETECTION.pdf)
+
+---
 
 # 👨‍💻 Author
 
 **Rahul Reghu Rajan**
 
-BCA Graduate
-
-Advanced Diploma in Cyber Defence (ADCD)
-
-EC-Council Certified Ethical Hacker (CEH v13)
+- 🎓 BCA Graduate
+- 🛡️ Advanced Diploma in Cyber Defence (ADCD)
+- 🎯 EC-Council Certified Ethical Hacker (CEH v13)
 
 ### Connect with Me
 
-🌐 Portfolio:
-```
+🌐 **Portfolio**  
 https://rahulhub.vercel.app
-```
 
-💼 LinkedIn:
-```
+💼 **LinkedIn**  
 https://www.linkedin.com/in/rahul-reghu-rajan/
-```
 
-```
-Enterprise Threat Detection & Monitoring Lab
+---
 
-Designed, Implemented & Documented by
-Rahul Reghu Rajan
-```
+<p align="center">
+
+**Enterprise Threat Detection & Monitoring Lab**
+
+Designed, Implemented & Documented by **Rahul Reghu Rajan**
+
+</p>
 
 ---
 
