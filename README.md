@@ -133,7 +133,9 @@ SOC Investigation
 The repository contains screenshots demonstrating each stage of the project.
 
 All screenshots are available in the **[Proof Of Concept](Proof%20Of%20Concept/)** folder.
+
 ---
+
 
 # 💡 Skills Demonstrated
 
